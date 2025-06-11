@@ -1,0 +1,6 @@
+[submodule "libvmi_code"]
+	path = libvmi_code
+	url = git@github.com:NielsTRS/libvmi.git
+[submodule "xenalyze-parser"]
+	path = xenalyze-parser
+	url = git@github.com:NielsTRS/xenalyze-parser.git
